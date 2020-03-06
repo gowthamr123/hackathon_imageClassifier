@@ -1,25 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Dropzone from './FileUpload/Dropzone';
+import { createStyles, makeStyles, Theme } from '@material-ui/core/styles';
+import ButtonAppBar from './Appbar';
+import EmptyMediaItems from './EmptyMediaItems';
+import FileUpload from './FileUpload/FileUpload';
 
+const useStyles = makeStyles((theme: Theme) =>
+  createStyles({
+    root: {
+      flexGrow: 1,
+    },
+    menuButton: {
+      marginRight: theme.spacing(2),
+    },
+    title: {
+      flexGrow: 1,
+    },
+  }),
+);
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+        <div className="Card">
+
+          <ButtonAppBar/>
+          <FileUpload />
+          
+          {/* <Dropzone onFilesAdded={console.log} /> */}
+        </div>
+      </div>
   );
 }
 
