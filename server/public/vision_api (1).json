@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "antz-hawkr-production",
+  "private_key_id": "5b3530efc4168bafea51c3ffc0ad84aa0c13ab07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD4m8FeciY697DN\nvqDqrsKPKfVJ4fSPETkT74XeztY9GFZtpwHKz4lI6B9vCYqoBabZDius6yjy49dP\nxdlWQmjpDwxbLEdL7Oct8CLRbf/1/iorhnE0oN1rY/y92afahDSSgbpDIemkXVOB\nbfcFgDYBT3nU5OnDNWW27FuETE6imk4uGb6RoorRHPW9O4ro7vPmzva9ID+MuCGa\nCqRbVPdzicfSL7hqnh0k0gPHH6lBW0c1vjYMtrQMkWWPfxhnLRZH2sPSw+DAbher\ng6PreezVmRCo5b/RyGR4yRN6XjSe/w2ahADuHhpjBr8AfAYQb0u6me4o3Gchy19I\nqTk6JzlTAgMBAAECggEAdioiGPAMt85vHPvUpHd4Rm/dBMb/ZNj81jrs2GBbeCKP\nQgM1WN6YFC0wc6iHXSGCknynycLkbb5Z4rLZgKSEFPJwHw3GvZHWuAEBq6WrGZM7\nHAEE4czsMVUPFnXT0IsyKci7bZk64kLxo/1OgjDUen76G3TKn1xMAkwJm7JhVesu\nEwVjTuLlVAFiFf++5l/hwjg7SGjGqUStAJTuMQT+ceFEWyrBQWdxI1BNbj2VrSZy\nsTyGql9mHFTK3gEz+PVx1qDWQdaQT61EOUjftVYViO4U2YIrVTUbWxhyKADoDkAG\ni4Xhdplf1+LuJf7wrmt4oozXjko+YQEmR3d4wUrdgQKBgQD/bLnYQgjTx7PMRHgI\nvmqMktYTp+RPoCND1K2f+qf4lPkjmsNNza6m82nbNYDwyh1lzYzDfXYMNSU/HQdv\n5Kf1gxr+51jbh5fO57m97wjUmr/Nc9zdRY/pLKGHkmunq7VrFGYjO5lflS8uizAJ\ndC2HPn4KNZ4GbrVUmJy2IS/koQKBgQD5Kxlmf2mvfCYZlSat88KuSLJgzRwfo6Qu\n16QymQbw6FSpkj41r5XP4ZyeM3qxNhHQtcONn46geujtTpXzedA8mFkqKdqbc1af\nO7N4gA0i9GNdWD/9bTvpiTwIXDpHh3JK3wj/9rUAFySV/V3QnWf9iTrKVSh6i0fR\nUaOcpnBlcwKBgD8wUaWbaH2j+On+wkc/fDJ8nPNN5KCCOFcuhSl/pBBOInhZcBmO\nWbe5niV5zgVDqxQlTr6KCiso9qbvcoiO47JMFeCbsRLWL4sjLoM7YE7gXbThBfHD\npL+FqAxW/8UCKKZt7Hqo4t+Pk5WLH34nPKApqJqz+v0SZE+iVZqFCUkhAoGAYudm\nt7bPnqarAPChX98oYcHdfGsuRKjSHP3f4W24wZuXL5ArPWgrEU8+udU5WGpb+/qK\nWwcAuFbRapENGI47yDG5AvGGIrpPofkyrhw2Gq/jWUQUcmYPqA2fVLo3L/lltq59\nhgzJn/WPwjHGMW6pvovgWDwhSzNKGJ5NUXsHll0CgYEAz/kRmW5T8mq403gkKeDp\nzZUsu4vFiie2W84WhjvSL73ISTjf6EhvTvAjDW8KYgBuD4MYy7+lpW2f/wpM+xdD\n2iPD4TgDVsuFo8yZGc9w+DHa9Xi8zt3yME5UWERYZc1xOBMpcSxc+vR4sgBTQtFn\n/0xgM+sx6PFxkxmo3+yvL/Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-api-service@antz-hawkr-production.iam.gserviceaccount.com",
+  "client_id": "111563384181905219004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-api-service%40antz-hawkr-production.iam.gserviceaccount.com"
+}
